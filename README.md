@@ -130,7 +130,7 @@ Feature Importance
 The count plot shows the distribution of customers who churned and
 customers who stayed with the company.
 
-![Churn Distribution](images/1st.png)
+![Churn Distribution](https://github.com/richaa357/Customer_churn_analysis/blob/main/images/1st.png)
 
 ---
 
@@ -139,7 +139,7 @@ customers who stayed with the company.
 The heatmap represents the confusion matrix and compares the actual
 churn values with the values predicted by the model.
 
-![Actual vs Predicted Churn](images/2nd.png)
+![Actual vs Predicted Churn](https://github.com/richaa357/Customer_churn_analysis/blob/main/images/2nd.png)
 
 ---
 
@@ -148,7 +148,7 @@ churn values with the values predicted by the model.
 The bar plot shows the top 10 features based on their importance in
 the Logistic Regression model.
 
-![Top 10 Important Features](images/3rd.png)
+![Top 10 Important Features](https://github.com/richaa357/Customer_churn_analysis/blob/main/images/3rd.png)
 
 ---
 
@@ -160,7 +160,7 @@ Logistic Regression model.
 Positive coefficients indicate a stronger tendency toward churn,
 while negative coefficients indicate a lower tendency toward churn.
 
-![Feature Coefficients](images/4th.png)
+![Feature Coefficients](https://github.com/richaa357/Customer_churn_analysis/blob/main/images/4th.png)
 
      ↓
 Conclusion
