@@ -130,7 +130,7 @@ Feature Importance
 The count plot shows the distribution of customers who churned and
 customers who stayed with the company.
 
-![Churn Distribution](images/1st.png)
+![Churn Distribution](Customer_churn_analysis/images/1st.png)
 
 ---
 
