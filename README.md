@@ -167,7 +167,7 @@ while negative coefficients indicate a lower tendency toward churn.
 ![Feature Coefficients](images/4th.png)
 
      ↓
-Conclusion
+
 Streamlit Application
 
 The project includes a Streamlit web application where users can enter customer information and receive a churn prediction along with the predicted churn probability.
